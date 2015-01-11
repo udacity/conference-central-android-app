@@ -15,10 +15,10 @@
 
 package com.udacity.devrel.training.conference.android.utils;
 
-import com.appspot.udacity_extras.conference.model.Conference;
+import com.appspot.your_app_id.conference.model.Conference;
 
 /**
- * A wrapper around the {@link com.appspot.udacity_extras.conference.model.Conference}
+ * A wrapper around the {@link com.appspot.your_app_id.conference.model.Conference}
  * to enable adding additional fields and operations.
  */
 public class DecoratedConference {
