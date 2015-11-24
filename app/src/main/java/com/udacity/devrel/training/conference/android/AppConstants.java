@@ -22,7 +22,7 @@ import android.app.Dialog;
 import android.content.Context;
 
 // Replace the next import with your library (it will have your appspot project ID)
-import com.appspot.udacity_extras.conference.Conference;
+import com.appspot.your_app_id.conference.Conference;
 
 import com.google.android.gms.auth.GoogleAuthUtil;
 import com.google.android.gms.common.GooglePlayServicesUtil;

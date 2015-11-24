@@ -20,7 +20,7 @@ import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.api.client.util.DateTime;
 import com.udacity.devrel.training.conference.android.R;
 
-import com.appspot.udacity_extras.conference.model.Conference;
+import com.appspot.your_app_id.conference.model.Conference;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
